@@ -15,7 +15,7 @@ class ProcessTable{
    private:
       int nextpid;   
       vector<Process> process;
-      int size; // number of process in table 
+      int size; // number of process in table PT
   public:
        // default constructor to initialize the first value pid
        ProcessTable ()
