@@ -1,0 +1,50 @@
+Script started on Tue 14 Jun 2016 01:43:02 PM PDT
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ ./a.out
+Overwriting file1
+Reading content:
+---------------Hello CSUSB. This is lab 7. This is end of file-----------------
+Deleting block!
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make[K[K[K[Kmake[K[K[K[Kreset
+[3g        H        H        H        H        H        H        H        H        Hc[!p[?3;4l[4l>]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make
+g++ -c main.cpp
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ ./a.out
+Overwriting file1
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make
+g++ -c main.cpp
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make./a.out
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make
+g++ -c main.cpp
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make./a.out
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ ./a.out[3Pmake
+g++ -c main.cpp
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make./a.out
+Reading content:
+---------------Hello CSUSB. This is lab 7. This is end of file--------------------------------Hello CSUSB. This is lab 7. This is end of file--------------------------------Hello CSUSB. This is lab 7. This is end of file-----------------
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ reset
+[3g        H        H        H        H        H        H        H        H        Hc[!p[?3;4l[4l>]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ ./a.out
+Overwriting file1
+Reading content:
+---------------Hello CSUSB. This is lab 7. This is end of file-----------------
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make./a.out
+Overwriting file1
+Reading content:
+---------------Hello CSUSB. This is lab 7. This is end of file-----------------
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ make
+g++ -c main.cpp
+g++ main.o filesys.o sdisk.o
+]0;unknown@unknown-Lenovo-Y50-70: ~/Desktop/cse660/lab7[01;32munknown@unknown-Lenovo-Y50-70[00m:[01;34m~/Desktop/cse660/lab7[00m$ ./.out[K[K[K[K[K/a.out
+Overwriting file1
+Reading content:
+---------------Hello CSUSB. This is lab 7. This is end of file-----------------
+Deleting block!
+]0;
